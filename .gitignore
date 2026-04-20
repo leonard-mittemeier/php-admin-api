@@ -1,0 +1,11 @@
+/vendor/
+.env
+.env.*
+*.log
+.DS_Store
+composer.lock
+README.docx
+test_*.php
+*_test.php
+*_debug.php
+curl_test.php

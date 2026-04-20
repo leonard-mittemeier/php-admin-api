@@ -1,0 +1,6 @@
+{
+    "require": {
+        "firebase/php-jwt": "^7.0",
+        "bitrix24/b24phpsdk": "^3.0"
+    }
+}
